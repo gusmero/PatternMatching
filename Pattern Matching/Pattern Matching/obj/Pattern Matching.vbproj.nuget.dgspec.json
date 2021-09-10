@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\UNIVERSITA\\Magistrale\\Modelli e Computazione\\Teoria della computazione\\Progetti\\Pattern Matching\\Pattern Matching\\Pattern Matching.vbproj": {}
+    "E:\\UNIVERSITA\\Magistrale\\Modelli e Computazione\\Teoria della computazione\\Progetti\\PatternMatching\\Pattern Matching\\Pattern Matching\\Pattern Matching.vbproj": {}
   },
   "projects": {
-    "E:\\UNIVERSITA\\Magistrale\\Modelli e Computazione\\Teoria della computazione\\Progetti\\Pattern Matching\\Pattern Matching\\Pattern Matching.vbproj": {
+    "E:\\UNIVERSITA\\Magistrale\\Modelli e Computazione\\Teoria della computazione\\Progetti\\PatternMatching\\Pattern Matching\\Pattern Matching\\Pattern Matching.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\UNIVERSITA\\Magistrale\\Modelli e Computazione\\Teoria della computazione\\Progetti\\Pattern Matching\\Pattern Matching\\Pattern Matching.vbproj",
+        "projectUniqueName": "E:\\UNIVERSITA\\Magistrale\\Modelli e Computazione\\Teoria della computazione\\Progetti\\PatternMatching\\Pattern Matching\\Pattern Matching\\Pattern Matching.vbproj",
         "projectName": "Pattern Matching",
-        "projectPath": "E:\\UNIVERSITA\\Magistrale\\Modelli e Computazione\\Teoria della computazione\\Progetti\\Pattern Matching\\Pattern Matching\\Pattern Matching.vbproj",
+        "projectPath": "E:\\UNIVERSITA\\Magistrale\\Modelli e Computazione\\Teoria della computazione\\Progetti\\PatternMatching\\Pattern Matching\\Pattern Matching\\Pattern Matching.vbproj",
         "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "E:\\UNIVERSITA\\Magistrale\\Modelli e Computazione\\Teoria della computazione\\Progetti\\Pattern Matching\\Pattern Matching\\obj\\",
+        "outputPath": "E:\\UNIVERSITA\\Magistrale\\Modelli e Computazione\\Teoria della computazione\\Progetti\\PatternMatching\\Pattern Matching\\Pattern Matching\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
