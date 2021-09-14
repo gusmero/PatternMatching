@@ -27,6 +27,8 @@ Partial Class Form1
         Me.Text = New System.Windows.Forms.Label()
         Me.Pattern = New System.Windows.Forms.Label()
         Me.PatternMatching = New System.Windows.Forms.Button()
+        Me.TextBoxphi = New System.Windows.Forms.TextBox()
+        Me.Label1 = New System.Windows.Forms.Label()
         Me.SuspendLayout()
         '
         'TextBox
@@ -70,18 +72,35 @@ Partial Class Form1
         Me.PatternMatching.Text = "Pattern Matching"
         Me.PatternMatching.UseVisualStyleBackColor = True
         '
+        'TextBoxphi
+        '
+        Me.TextBoxphi.Location = New System.Drawing.Point(597, 426)
+        Me.TextBoxphi.Name = "TextBoxphi"
+        Me.TextBoxphi.Size = New System.Drawing.Size(200, 39)
+        Me.TextBoxphi.TabIndex = 5
+        '
+        'Label1
+        '
+        Me.Label1.AutoSize = True
+        Me.Label1.Location = New System.Drawing.Point(418, 444)
+        Me.Label1.Name = "Label1"
+        Me.Label1.Size = New System.Drawing.Size(149, 32)
+        Me.Label1.TabIndex = 6
+        Me.Label1.Text = "funzione phi"
+        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(13.0!, 32.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(1518, 698)
+        Me.Controls.Add(Me.Label1)
+        Me.Controls.Add(Me.TextBoxphi)
         Me.Controls.Add(Me.PatternMatching)
         Me.Controls.Add(Me.Pattern)
         Me.Controls.Add(Me.Text)
         Me.Controls.Add(Me.PatterntBox)
         Me.Controls.Add(Me.TextBox)
         Me.Name = "Form1"
-        Me.Text = "Form1"
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
@@ -92,4 +111,6 @@ Partial Class Form1
     Friend WithEvents Text As Label
     Friend WithEvents Pattern As Label
     Friend WithEvents PatternMatching As Button
+    Friend WithEvents TextBoxphi As TextBox
+    Friend WithEvents Label1 As Label
 End Class

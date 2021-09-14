@@ -1,0 +1,18 @@
+E:\UNIVERSITA\Magistrale\Modelli e Computazione\Teoria della computazione\Progetti\PatternMatching\Pattern Matching\Pattern Matching\bin\Debug\net5.0-windows\Pattern Matching.exe
+E:\UNIVERSITA\Magistrale\Modelli e Computazione\Teoria della computazione\Progetti\PatternMatching\Pattern Matching\Pattern Matching\bin\Debug\net5.0-windows\Pattern Matching.deps.json
+E:\UNIVERSITA\Magistrale\Modelli e Computazione\Teoria della computazione\Progetti\PatternMatching\Pattern Matching\Pattern Matching\bin\Debug\net5.0-windows\Pattern Matching.runtimeconfig.json
+E:\UNIVERSITA\Magistrale\Modelli e Computazione\Teoria della computazione\Progetti\PatternMatching\Pattern Matching\Pattern Matching\bin\Debug\net5.0-windows\Pattern Matching.runtimeconfig.dev.json
+E:\UNIVERSITA\Magistrale\Modelli e Computazione\Teoria della computazione\Progetti\PatternMatching\Pattern Matching\Pattern Matching\bin\Debug\net5.0-windows\Pattern Matching.dll
+E:\UNIVERSITA\Magistrale\Modelli e Computazione\Teoria della computazione\Progetti\PatternMatching\Pattern Matching\Pattern Matching\bin\Debug\net5.0-windows\ref\Pattern Matching.dll
+E:\UNIVERSITA\Magistrale\Modelli e Computazione\Teoria della computazione\Progetti\PatternMatching\Pattern Matching\Pattern Matching\bin\Debug\net5.0-windows\Pattern Matching.pdb
+E:\UNIVERSITA\Magistrale\Modelli e Computazione\Teoria della computazione\Progetti\PatternMatching\Pattern Matching\Pattern Matching\obj\Debug\net5.0-windows\Pattern Matching.vbproj.AssemblyReference.cache
+E:\UNIVERSITA\Magistrale\Modelli e Computazione\Teoria della computazione\Progetti\PatternMatching\Pattern Matching\Pattern Matching\obj\Debug\net5.0-windows\Pattern_Matching.Form1.resources
+E:\UNIVERSITA\Magistrale\Modelli e Computazione\Teoria della computazione\Progetti\PatternMatching\Pattern Matching\Pattern Matching\obj\Debug\net5.0-windows\Pattern Matching.vbproj.GenerateResource.cache
+E:\UNIVERSITA\Magistrale\Modelli e Computazione\Teoria della computazione\Progetti\PatternMatching\Pattern Matching\Pattern Matching\obj\Debug\net5.0-windows\Pattern Matching.GeneratedMSBuildEditorConfig.editorconfig
+E:\UNIVERSITA\Magistrale\Modelli e Computazione\Teoria della computazione\Progetti\PatternMatching\Pattern Matching\Pattern Matching\obj\Debug\net5.0-windows\Pattern Matching.AssemblyInfoInputs.cache
+E:\UNIVERSITA\Magistrale\Modelli e Computazione\Teoria della computazione\Progetti\PatternMatching\Pattern Matching\Pattern Matching\obj\Debug\net5.0-windows\Pattern Matching.AssemblyInfo.vb
+E:\UNIVERSITA\Magistrale\Modelli e Computazione\Teoria della computazione\Progetti\PatternMatching\Pattern Matching\Pattern Matching\obj\Debug\net5.0-windows\Pattern Matching.vbproj.CoreCompileInputs.cache
+E:\UNIVERSITA\Magistrale\Modelli e Computazione\Teoria della computazione\Progetti\PatternMatching\Pattern Matching\Pattern Matching\obj\Debug\net5.0-windows\Pattern Matching.dll
+E:\UNIVERSITA\Magistrale\Modelli e Computazione\Teoria della computazione\Progetti\PatternMatching\Pattern Matching\Pattern Matching\obj\Debug\net5.0-windows\ref\Pattern Matching.dll
+E:\UNIVERSITA\Magistrale\Modelli e Computazione\Teoria della computazione\Progetti\PatternMatching\Pattern Matching\Pattern Matching\obj\Debug\net5.0-windows\Pattern Matching.pdb
+E:\UNIVERSITA\Magistrale\Modelli e Computazione\Teoria della computazione\Progetti\PatternMatching\Pattern Matching\Pattern Matching\obj\Debug\net5.0-windows\Pattern Matching.genruntimeconfig.cache
