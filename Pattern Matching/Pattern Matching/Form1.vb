@@ -8,6 +8,7 @@
         For i = 0 To phi.Length - 1
             TextBoxphi.AppendText(phi(i))
         Next
+        KMP(pattern, text, phi)
     End Sub
 
     Function ComputePrefixFunction(pattern) As Integer()
@@ -37,4 +38,31 @@
             clausola = True
         End If
     End Sub
+
+    Private Shared Sub ComputeClausola(pattern As Object, text As Object, ByRef j As Integer, ByRef clausola As Boolean, q As Integer)
+        If j < 0 Then
+            clausola = False
+        ElseIf pattern.Chars(j) <> text.Chars(q - 1) Then
+            clausola = True
+        End If
+    End Sub
+
+    Function KMP(pattern, text, phi)
+        Dim m As Integer = Len(pattern)
+        Dim n As Integer = Len(text)
+        Dim j As Integer
+        Dim clausola As Boolean
+        For q = 1 To n
+            ComputeClausola(pattern, text, j, clausola, q)
+            Do While clausola
+                j = phi(j)
+                ComputeClausola(pattern, text, j, clausola, q)
+            Loop
+            j = j + 1
+            If j = m Then
+                MsgBox("occorrenza in :" & q - m + 1)
+            End If
+        Next
+    End Function
+
 End Class
